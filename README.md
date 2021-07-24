@@ -1,0 +1,1 @@
+dotinstall JavaScriptでおみくじを作ろう (全9回)
